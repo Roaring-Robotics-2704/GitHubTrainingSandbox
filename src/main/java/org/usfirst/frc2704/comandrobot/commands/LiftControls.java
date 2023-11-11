@@ -5,6 +5,8 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+///New Lift control changes for training.
+
 /*package org.usfirst.frc2704.comandrobot.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
@@ -25,6 +27,9 @@ public class LiftControls extends Command {
   protected void initialize() {
     l.goalDistance = l.liftEncoder.getDistance();
   }
+
+// Fix a bug in the lift controls...... BLS
+
 
   // Called repeatedly when this Command is scheduled to run
   @Override
