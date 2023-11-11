@@ -22,10 +22,6 @@ import java.lang.Math.*;
 /**
  * Add your docs here.
  */
-
-// MADE A NEW LIFT FEATURE.  BLS.
-
-
 public class Lift extends Subsystem {
   // Put methods for controlling this subsystem
   // here. Call these from Commands.

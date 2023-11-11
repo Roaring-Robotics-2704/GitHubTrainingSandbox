@@ -9,8 +9,6 @@
 // it from being updated in the future.
 
 
-// Coach Brent Made Drive Train Changes
-
 package org.usfirst.frc2704.comandrobot.subsystems;
 
 
