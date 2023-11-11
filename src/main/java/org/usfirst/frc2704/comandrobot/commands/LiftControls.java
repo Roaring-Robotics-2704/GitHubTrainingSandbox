@@ -5,6 +5,8 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
+///New Lift control changes for training.
+
 /*package org.usfirst.frc2704.comandrobot.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
