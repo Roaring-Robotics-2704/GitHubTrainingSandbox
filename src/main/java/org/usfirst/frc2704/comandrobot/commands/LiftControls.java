@@ -28,6 +28,9 @@ public class LiftControls extends Command {
     l.goalDistance = l.liftEncoder.getDistance();
   }
 
+// Fix a bug in the lift controls...... BLS
+
+
   // Called repeatedly when this Command is scheduled to run
   @Override
   protected void execute() {
