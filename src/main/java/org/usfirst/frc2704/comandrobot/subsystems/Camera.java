@@ -4,7 +4,7 @@ import edu.wpi.first.cameraserver.CameraServer;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.cscore.*;
 
-
+// Made a camera change.
 public class Camera extends Subsystem {
     private CameraServer server;
     private UsbCamera camera;
